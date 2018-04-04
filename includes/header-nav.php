@@ -22,6 +22,7 @@
 
 			<li><a href="#somos">SANUS</a></li>
             <li><a href="#como">CÓMO USAR</a></li>
+            <li><a href="#porque">PORQUE USARLO</a></li>
             <li><a href="#especialidades">ESPECIALIDADES</a></li>
             <li><a href="#">REGÍSTRATE GRATIS</a></li>
             <li><a href="#">INICIAR SESIÓN</a></li>
