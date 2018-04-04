@@ -42,5 +42,5 @@
            ?>
         </div><!--End row -->
 
-        </div><!--End container -->
-    </div>
+</div><!--End container -->
+</div>

@@ -45,6 +45,12 @@ include 'includes/header-nav.php'
         include 'includes/porque-usar.php'
         ?>  
         <!-- END PORQUE USAR -->
+        
+        <!-- ESPECILIDADES -->
+        <?
+        include 'includes/especialidades.php'
+        ?>  
+        <!-- END ESPECIALIDADES -->
 
         <!-- INICIO BLOG -->
         <?
